@@ -1,0 +1,84 @@
+{
+  "portfolioItems": [
+    {
+      "h": "2차 팀프로젝트",
+      "title": "모꼬지",
+      "date": "2024. 04. 02 ~ 2024. 05. 10",
+      "contributors": "2명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript, j-query, json",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://observant-reward-10b.notion.site/d02590e954da4e0ab129e2c2fd0a0228?pvs=4",
+        "github": "https://github.com/heeseung00/c-last.git",
+        "origin": "https://c-last.vercel.app/"
+      }
+    },
+    {
+      "h": "미니 팀프로젝트",
+      "title": "그린박스",
+      "date": "2024. 01. 29 ~ 2024. 02. 22",
+      "contributors": "2명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://observant-reward-10b.notion.site/Greenbox-9431b30bc1c5443eb7c529915d2762d4?pvs=4",
+        "github": "https://github.com/heeseung00/greenbox-last.git",
+        "origin": "https://greenbox-last.vercel.app/"
+      }
+    },
+    {
+      "h": "1차 팀프로젝트",
+      "title": "바우오가닉",
+      "date": "2024. 02. 26 ~ 2024. 04. 01",
+      "contributors": "3명(기여도: 33%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://observant-reward-10b.notion.site/Boworganic-f0b4d7008a50463283a64bdb1ed036b8?pvs=4",
+        "github": "https://github.com/Takchaeeun/Boworganic_.git",
+        "origin": "https://boworganic.vercel.app/"
+      }
+    },
+    {
+      "h": "디자인",
+      "title": "배너 디자인",
+      "date": "2024. 04. 21 ~ 2024. 04. 25",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "figma, illustratior",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://observant-reward-10b.notion.site/15a5ae5e345c4480a09eede55df06a9e?pvs=4",
+        "GitHub": "https://",
+        "Figma": "https://www.figma.com/design/PLORRhn1vHvD5eHcrsk6df/%EB%B0%B0%EB%84%88-%EB%94%94%EC%9E%90%EC%9D%B8_%EB%B0%98%EC%9D%91%ED%98%95?t=BDz7C2so78g3eWXj-1"
+      }
+    },
+    {
+      "h": "디자인",
+      "title": "로고 디자인",
+      "date": "2024. 04. 19 ~ 2024. 04. 25",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "illustratior",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://observant-reward-10b.notion.site/15a5ae5e345c4480a09eede55df06a9e?pvs=4",
+        "GitHub": "https://",
+        "Figma": "https://www.figma.com/design/PLORRhn1vHvD5eHcrsk6df/%EB%B0%B0%EB%84%88-%EB%94%94%EC%9E%90%EC%9D%B8_%EB%B0%98%EC%9D%91%ED%98%95?t=BDz7C2so78g3eWXj-1"
+      }
+    }
+  ]
+}
